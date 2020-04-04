@@ -31,16 +31,9 @@ class MainController extends Controller {
 		if(Auth::check())
 		{
 			$user = Auth::user();
-			if(!$this->helpers->isAdmin($user))
-			{
-				Auth::logout();
-				 return redirect()->intended('/');
-			}  
+			 
 		}
-		else
-		{
-			return redirect()->intended('login');
-		}
+
 		
 		$signals = $this->helpers->signals;
 		//$accounts = $this->helpers->getUsers();
