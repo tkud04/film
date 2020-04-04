@@ -1,8 +1,6 @@
-@extends('layout')
+<?php $__env->startSection('title',"Welcome"); ?>
 
-@section('title',"Welcome")
-
-@section('content')
+<?php $__env->startSection('content'); ?>
 
 			
 				<div class="section mcb-section equal-height-wrap  hide-mobile has-video bg-cover"  style="padding-top:200px; padding-bottom:100px; background-color:; background-image:url(https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/truefilm_hero_bg.jpg); background-repeat:no-repeat; background-position:center; background-attachment:; background-size:; -webkit-background-size:" ><div class="section_video"><div class="mask"></div><video poster="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/truefilm_hero_bg.jpg" autoplay="true" loop="true" muted="muted"><source type="video/mp4" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/TFP-Homepage-Event-Sizzle_V3_1.mp4" /><source type="video/ogg" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/TFP_Event_Sizzle_V2.mp4" /></video></div><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap one-fifth tablet-hide valign-top clearfix" style="" ><div class="mcb-wrap-inner"><div class="column mcb-column one column_column  column-margin-"><div class="column_attr clearfix"  style=""></div></div></div></div><div class="wrap mcb-wrap two-third hero-col valign-middle clearfix" style="" ><div class="mcb-wrap-inner"><div class="column mcb-column one column_column  column-margin-"><div class="column_attr clearfix align_left"  style=""><p style="font-weight: 600; font-size: 25px; line-height: 36px;color: #fff; letter-spacing: 1px; "><span style="font-family: Quadon, Arial, Tahoma, sans-serif; font-weight: 900; font-size: 45px; line-height: 55px;color: #fff; text-transfrom: uppercase;">Video, strategy & animation for virtual events, corporate meetings and digital experiences that <span style="font-family: Quadon, Arial, Tahoma, sans-serif; font-weight: 900; font-size: 45 px; line-height: 55px;font-style: italic;">multiplies your ROI</span></p>
@@ -215,4 +213,5 @@
 				</div>
 				
 			
-@stop
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layout', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\bkupp\lokl\repo\film\resources\views/index.blade.php ENDPATH**/ ?>
