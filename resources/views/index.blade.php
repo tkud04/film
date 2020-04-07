@@ -298,7 +298,7 @@
                 <div class="column mcb-column one column_column partners-heading column-margin-">
                     <div class="column_attr clearfix align_center" style="">
                         <h2 style="font-weight: 800; font-size: 48px; line-height: 55px; color: #fff; ">Our <span style="color: #199bdb;">PARTNERS</span></h2>
-                        <p style="color: #fff; width: 100%; max-width: 880px; margin: 20px auto; font-size: 20px; line-height: 30px;">Besides being among the world’s most well-known brands, our partners all have a common desire to connect with audiences and see high returns from their investment in video.</p>
+                        <p style="color: #fff; width: 100%; max-width: 880px; margin: 20px auto; font-size: 20px; line-height: 30px;">Besides being among the country’s most well-known brands, our partners sponsors and vendors all have a common desire to connect with audiences and see high returns from their investment in video.</p>
 
                     </div>
                 </div>
@@ -567,8 +567,8 @@
                 <div class="column mcb-column one-third column_column  column-margin-">
                     <div class="column_attr clearfix" style=" padding:10px;">
                         <div class="faq-title"><i class="icon-plus"></i>
-                            <h4 style="color: #000">Can you help with just the creative or scriptwriting for an event marketing video?</h4></div>
-                        <p>Sure! We have a full creative development team that can help you with everything from ideation and copywriting to motion design, storyboarding, 3D animation and more. Our team is a diverse mix of marketers, strategists, and creatives who know how to speak to audiences for all types of events, conferences, and corporate meetings.</p>
+                            <h4 style="color: #000">Can you offer services outside Nigeria?</h4></div>
+                        <p>We currently offer media services to clients in Nigeria for now.</p>
                     </div>
                 </div>
                 <div class="column mcb-column one-third column_column  column-margin-">
