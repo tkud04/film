@@ -146,16 +146,12 @@
                                     background: #66df79!important
                                 }
                             </style>
-                            <div class='heateor_sss_sharing_container heateor_sss_vertical_sharing heateor_sss_bottom_sharing' style='width:20px;left: -10px;top: 100px;-webkit-box-shadow:none;box-shadow:none;' heateor-sss-data-href='https://truefilmproduction.com'>
+                            <div class='heateor_sss_sharing_container heateor_sss_vertical_sharing heateor_sss_bottom_sharing' style='width:20px;left: -10px;top: 100px;-webkit-box-shadow:none;box-shadow:none;' heateor-sss-data-href='{{url("/")}}'>
                                 <ul class="heateor_sss_sharing_ul">
                                     <li class=""><i style="width:16px;height:16px;margin:0;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruefilmproduction.com")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li>
                                     <li class=""><i style="width:16px;height:16px;margin:0;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=HOME-New%20%282020%29&url=https%3A%2F%2Ftruefilmproduction.com")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li>
                                     <li class=""><i style="width:16px;height:16px;margin:0;" alt="Linkedin" Title="Linkedin" class="heateorSssSharing heateorSssLinkedinBackground" onclick='heateorSssPopup("http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftruefilmproduction.com&title=HOME-New%20%282020%29")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssLinkedinSvg"></ss></i></li>
-                                    <li class=""><i style="width:16px;height:16px;margin:0;" alt="Pinterest" Title="Pinterest" class="heateorSssSharing heateorSssPinterestBackground" onclick="javascript:void( (function() {var e=document.createElement('script' );e.setAttribute('type','text/javascript' );e.setAttribute('charset','UTF-8' );e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());"><ss style="display:block;" class="heateorSssSharingSvg heateorSssPinterestSvg"></ss></i></li>
-                                    <li class=""><i style="width:16px;height:16px;margin:0;" alt="Reddit" Title="Reddit" class="heateorSssSharing heateorSssRedditBackground" onclick='heateorSssPopup("http://reddit.com/submit?url=https%3A%2F%2Ftruefilmproduction.com&title=HOME-New%20%282020%29")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssRedditSvg"></ss></i></li>
-                                    <li class=""><i style="width:16px;height:16px;margin:0;" alt="Mix" Title="Mix" class="heateorSssSharing heateorSssMixBackground" onclick='heateorSssPopup("https://mix.com/mixit?url=https%3A%2F%2Ftruefilmproduction.com")'><ss style="display:block;" class="heateorSssSharingSvg heateorSssMixSvg"></ss></i></li>
                                     <li class=""><i style="width:16px;height:16px;margin:0;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=HOME-New%20%282020%29 https%3A%2F%2Ftruefilmproduction.com" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li>
-                                    <li class=""><i style="width:16px;height:16px;margin:0;" title="More" alt="More" class="heateorSssSharing heateorSssMoreBackground" onclick="heateorSssMoreSharingPopup(this, 'https://truefilmproduction.com', 'HOME-New%20%282020%29', '' )"><ss style="display:block" class="heateorSssSharingSvg heateorSssMoreSvg"></ss></i></li>
                                 </ul>
                                 <div class="heateorSssClear"></div>
                             </div>
@@ -291,226 +287,7 @@
         </div>
     </div>
 </div>
-<div class="section mcb-section   " style="padding-top:60px; padding-bottom:0px; background-color:#292b33">
-    <div class="section_wrapper mcb-section-inner">
-        <div class="wrap mcb-wrap one  valign-top clearfix" style="">
-            <div class="mcb-wrap-inner">
-                <div class="column mcb-column one column_column partners-heading column-margin-">
-                    <div class="column_attr clearfix align_center" style="">
-                        <h2 style="font-weight: 800; font-size: 48px; line-height: 55px; color: #fff; ">Our <span style="color: #199bdb;">PARTNERS</span></h2>
-                        <p style="color: #fff; width: 100%; max-width: 880px; margin: 20px auto; font-size: 20px; line-height: 30px;">Besides being among the country’s most well-known brands, our partners sponsors and vendors all have a common desire to connect with audiences and see high returns from their investment in video.</p>
 
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="wrap mcb-wrap one  valign-top clearfix" style="">
-            <div class="mcb-wrap-inner">
-                <div class="column mcb-column one column_column client-logo-slider column-margin-0px">
-                    <div class="column_attr clearfix" style="">
-                        <div class="content_block" id="custom_post_widget-7353">
-                            <div class="ult-carousel-wrapper ult_horizontal">
-                                <div class="ult-carousel-5e88378656af2 ">
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1.png 750w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-640x640.png 640w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-150x150.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="150" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-150x150.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1.png 750w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nyra-1-640x640.png 640w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO.png 750w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-640x640.png 640w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-150x150.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="150" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-150x150.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO.png 750w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/XPO-640x640.png 640w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-768x768.png 768w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-1024x1024.png 1024w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-640x640.png 640w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor.png 1500w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-150x150.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="150" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-150x150.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-768x768.png 768w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-1024x1024.png 1024w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor-640x640.png 640w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/micor.png 1500w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1.png 750w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-640x640.png 640w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-150x150.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="150" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-150x150.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1.png 750w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/hilti-1-640x640.png 640w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="120" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/ups-150x1201-150x120.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/ups-150x1201-150x120-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/ups-150x1201-150x120-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/ups-150x1201-150x120-150x120.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="120" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/ups-150x1201-150x120-150x120.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/ups-150x1201-150x120.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/ups-150x1201-150x120-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/ups-150x1201-150x120-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh.png 750w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-640x640.png 640w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-150x150.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="150" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-150x150.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh.png 750w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/stilh-640x640.png 640w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="120" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/pfzir.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/pfzir-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/pfzir-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/pfzir-150x120.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="120" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/pfzir-150x120.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/pfzir.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/pfzir-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/pfzir-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="120" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/perkin1-150x1201-150x120.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/perkin1-150x1201-150x120-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/perkin1-150x1201-150x120-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/perkin1-150x1201-150x120-150x120.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="120" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/perkin1-150x1201-150x120-150x120.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/perkin1-150x1201-150x120.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/perkin1-150x1201-150x120-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/perkin1-150x1201-150x120-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="120" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nestle1-150x1201-150x120.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nestle1-150x1201-150x120-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nestle1-150x1201-150x120-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nestle1-150x1201-150x120-150x120.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="120" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nestle1-150x1201-150x120-150x120.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nestle1-150x1201-150x120.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nestle1-150x1201-150x120-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/nestle1-150x1201-150x120-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="150" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry.png 500w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-150x150.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="150" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-150x150.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-150x150.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-300x300.png 300w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-146x146.png 146w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-50x50.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-75x75.png 75w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-85x85.png 85w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry-80x80.png 80w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/perry.png 500w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="120" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/RB.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/RB-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/RB-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/RB-150x120.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="120" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/RB-150x120.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/RB.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/RB-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/RB-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="120" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/cm.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/cm-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/cm-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/cm-150x120.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="120" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/cm-150x120.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/cm.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/cm-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/cm-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="120" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/google.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/google-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/google-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/google-150x120.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="120" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/google-150x120.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/google.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/google-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/google-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="120" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/HK.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/HK-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/HK-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/HK-150x120.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="120" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/HK-150x120.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/HK.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/HK-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/HK-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="ult-item-wrap" data-animation="animated no-animation" style="padding:0 15px;">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left">
-
-                                            <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="150" height="120" alt="" data-srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/O-1.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/O-1-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/O-1-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/O-1-150x120.png" class="vc_single_image-img attachment-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                                    <noscript><img width="150" height="120" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/O-1-150x120.png" class="vc_single_image-img attachment-thumbnail" alt="" srcset="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/O-1.png 150w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/O-1-50x40.png 50w, https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/O-1-94x75.png 94w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-                                                </div>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <script type="text/javascript">
-                                jQuery('.ult-carousel-5e88378656af2').slick({
-                                    dots: false,
-                                    autoplay: true,
-                                    autoplaySpeed: 3000,
-                                    speed: 300,
-                                    infinite: true,
-                                    arrows: false,
-                                    slidesToScroll: 4,
-                                    slidesToShow: 4,
-                                    swipe: true,
-                                    draggable: true,
-                                    touchMove: true,
-                                    responsive: [{
-                                        breakpoint: 1024,
-                                        settings: {
-                                            slidesToShow: 4,
-                                            slidesToScroll: 4,
-
-                                        }
-                                    }, {
-                                        breakpoint: 768,
-                                        settings: {
-                                            slidesToShow: 3,
-                                            slidesToScroll: 3
-                                        }
-                                    }, {
-                                        breakpoint: 480,
-                                        settings: {
-                                            slidesToShow: 2,
-                                            slidesToScroll: 2
-                                        }
-                                    }],
-                                    pauseOnHover: true,
-                                    pauseOnDotsHover: true,
-                                    customPaging: function(slider, i) {
-                                        return '<i type="button" style="color:#333333;" class="ultsl-record" data-role="none"></i>';
-                                    },
-                                });
-                            </script>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <div class="section mcb-section   " style="padding-top:120px; padding-bottom:0px; background-color:#ffffff">
     <div class="section_wrapper mcb-section-inner">
         <div class="wrap mcb-wrap one  valign-top clearfix" style="background-color:#ffffff">
@@ -519,7 +296,7 @@
                     <div class="column_attr clearfix align_center" style=" background-color:#ffffff;">
                         <h2 style="color: #000; font-size: 48px; font-weight: 600; line-height: 1.5;">Client Success <span style="color: #199bdb;">STORIES</span></h2>
 
-                        <p style="width: 100%; max-width: 880px; margin: 20px auto; font-size: 20px; line-height: 30px;">Our clients are companies that are looking for more than the services of a video production company. They want a team that can capture brand authenticity, complete projects fast and keep the entire process as simple as possible.</p>
+                        <p style="width: 100%; max-width: 880px; margin: 20px auto; font-size: 20px; line-height: 30px;">What a few of our esteemed clients have to say about our services and work ethic.</p>
                     </div>
                 </div>
             </div>
@@ -530,24 +307,25 @@
     <div class="section_wrapper mcb-section-inner">
         <div class="wrap mcb-wrap one client-testimonials-wrapper valign-top clearfix" style="">
             <div class="mcb-wrap-inner">
+               <?php
+			   $testimonials = [
+			       ['user' => "Tina<br>Permanent Secretary, KenVille Logistics", 'copy' => "I want to say a big thank you to Decrew media for making our last annual general conference a successful one."],
+			       ['user' => "Motunrayo<br>Student", 'copy' => "Our end of year programme was massive. Thank you decrew media"],
+			       ['user' => "Chinedu<br>MD, Olasore Ltd.", 'copy' => "Their staff are well mannered and hard working. Everything went well."],
+			   ];
+			    foreach($testimonials as $t)
+				{
+					
+			   ?>
                 <div class="column mcb-column one-third column_column  column-margin-">
                     <div class="column_attr clearfix align_left" style=" background-color:#ffffff;">
-                        <a href="https://vimeo.com/213273731" class="prettyphoto"><img alt="Squirrel Systems" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Squirell.jpg" class="scale-with-grid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                            <noscript><img class="scale-with-grid" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Squirell.jpg" alt="Squirrel Systems" /></noscript><i class="icon-play"></i></a>
-                        <h4>Squirrel</h4></div>
+                        <p>{{$t['copy']}}</p>
+                        <h4>{!!$t['user']!!}</h4>
+					</div>
                 </div>
-                <div class="column mcb-column one-third column_column  column-margin-">
-                    <div class="column_attr clearfix align_left" style=" background-color:#ffffff;">
-                        <a href="https://vimeo.com/182145290" class="prettyphoto"><img alt="Viacord" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Viacord-2.jpg" class="scale-with-grid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                            <noscript><img class="scale-with-grid" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Viacord-2.jpg" alt="Viacord" /></noscript><i class="icon-play"></i></a>
-                        <h4>Viacord</h4></div>
-                </div>
-                <div class="column mcb-column one-third column_column  column-margin-">
-                    <div class="column_attr clearfix align_left" style=" background-color:#ffffff;">
-                        <a href="https://vimeo.com/281481623" class="prettyphoto"><img alt="Wirecard" data-src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Wirecard.jpg" class="scale-with-grid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                            <noscript><img class="scale-with-grid" src="https://3lpbthhwasv2algbrbe0j611-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Wirecard.jpg" alt="Wirecard" /></noscript><i class="icon-play"></i></a>
-                        <h4>Wirecard</h4></div>
-                </div>
+                <?php
+				}
+				?>
             </div>
         </div>
     </div>

@@ -155,7 +155,7 @@
 				
 			</div>
 			
-			<div class="top_bar_right"><div class="top_bar_right_wrapper"><a href="#" class="button button_theme button_js action_button " ><span class="button_label">Request a Quote</span></a></div></div>			
+			<div class="top_bar_right"><div class="top_bar_right_wrapper"><a href="{{url('contact')}}" class="button button_theme button_js action_button " ><span class="button_label">Contact Us</span></a></div></div>			
 		</div>
 	</div>
 </div>	
@@ -190,12 +190,12 @@
 <footer id="Footer" class="clearfix">
 	
 		
-	<div class="widgets_wrapper" style="padding:70px 0;"><div class="container"><div class="column one-second"><aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-links-container"><ul id="menu-footer-links" class="menu"><li id="menu-item-7428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7428"><a href="https://truefilmproduction.com/our-story/">Our Story</a></li>
+	<div class="widgets_wrapper" style="padding:70px 0;"><div class="container"><div class="column one-second"><aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-links-container"><ul id="menu-footer-links" class="menu"><li id="menu-item-7428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7428"><a href="{{url('story')}}">Our Story</a></li>
 <li id="menu-item-7429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7429"><a href="{{url('works')}}">Our Works</a></li>
 <li id="menu-item-7430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7430"><a href="{{url('services')}}">Services</a></li>
 <li id="menu-item-7432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7432"><a href="#">Blog</a></li>
-<li id="menu-item-7434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7434"><a href="#">Contact Us</a></li>
-<li id="menu-item-7435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7435"><a href="#">Privacy Policy</a></li>
+<li id="menu-item-7434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7434"><a href="{{url('contact')}}">Contact Us</a></li>
+<li id="menu-item-7435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7435"><a href="{{url('privacy')}}">Privacy Policy</a></li>
 </ul>
 </div>
 </aside>
@@ -250,6 +250,10 @@ Lagos, NG 23401</span>
 
 <script defer='defer' id='wpacu-combined-js-body-group-1' type='text/javascript' src='js/body-1c2def2e4776b7373cf4c2cca164a3d79f98bf33-1.js'></script>
     <script>jQuery(document).ready(function(){})</script>
-    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:1,300,400,400italic,500,700,700italic,800,900|Roboto:1,300,400,400italic,500,700,700italic,800,900" media="all" /></noscript>
-</body>
+    
+	  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:1,300,400,400italic,500,700,700italic,800,900|Roboto:1,300,400,400italic,500,700,700italic,800,900" media="all" /></noscript>
+<script type='text/javascript'>document.tidioChatCode="zjiufx2ji8dtebjqpdggdq2mora1ruks";(function(){function asyncLoad(){var tidioScript=document.createElement("script");tidioScript.type="text/javascript";tidioScript.async=!0;tidioScript.src="//code.tidio.co/zjiufx2ji8dtebjqpdggdq2mora1ruks.js";document.body.appendChild(tidioScript)}
+if(window.attachEvent){window.attachEvent("onload",asyncLoad)}else{window.addEventListener("load",asyncLoad,!1)}})()</script>
+	
+	</body>
 </html>

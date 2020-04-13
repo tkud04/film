@@ -16,3 +16,5 @@
 Route::get('/', 'MainController@getIndex');
 Route::get('works', 'MainController@getWorks');
 Route::get('services', 'MainController@getServices');
+Route::get('privacy', 'MainController@getPrivacy');
+Route::get('contact', 'MainController@getContact');

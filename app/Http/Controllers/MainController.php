@@ -84,6 +84,50 @@ class MainController extends Controller {
         
     	return view('services',compact(['user','signals']));
     }
+	
+	/**
+	 * Show the application welcome screen to the user.
+	 *
+	 * @return Response
+	 */
+	public function getPrivacy()
+    {
+       $user = null;
+
+		if(Auth::check())
+		{
+			$user = Auth::user();
+		}
+
+		
+		$signals = $this->helpers->signals;
+		//$accounts = $this->helpers->getUsers();
+		$accounts = [];
+        
+    	return view('privacy-policy',compact(['user','signals']));
+    }
+	
+	/**
+	 * Show the application welcome screen to the user.
+	 *
+	 * @return Response
+	 */
+	public function getContact()
+    {
+       $user = null;
+
+		if(Auth::check())
+		{
+			$user = Auth::user();
+		}
+
+		
+		$signals = $this->helpers->signals;
+		//$accounts = $this->helpers->getUsers();
+		$accounts = [];
+        
+    	return view('contact',compact(['user','signals']));
+    }
 
   
 	
